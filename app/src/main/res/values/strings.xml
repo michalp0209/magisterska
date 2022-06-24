@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Magisterska</string>
+    <string name="cpu_test">Prime test</string>
+    <string name="ram_test">Pi test</string>
+    <string-array name="pi_test_precision_values">
+        <item>8000</item>
+        <item>16000</item>
+        <item>32000</item>
+        <item>64000</item>
+        <item>128000</item>
+        <item>256000</item>
+        <item>512000</item>
+    </string-array>
+    <string-array name="pi_test_iterations">
+        <item>5</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+    </string-array>
+    <string-array name="threads">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+    </string-array>
+    <string-array name="mersenneNumbers">
+        <item>1279</item>
+        <item>2281</item>
+        <item>3217</item>
+        <item>4253</item>
+        <item>9689</item>
+    </string-array>
+
+</resources>
